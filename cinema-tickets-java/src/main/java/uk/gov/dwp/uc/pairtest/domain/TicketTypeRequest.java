@@ -25,5 +25,4 @@ public class TicketTypeRequest {
     public enum Type {
         ADULT, CHILD , INFANT
     }
-
 }

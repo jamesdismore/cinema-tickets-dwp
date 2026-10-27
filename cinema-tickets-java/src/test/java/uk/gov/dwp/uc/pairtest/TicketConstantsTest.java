@@ -1,4 +1,4 @@
-package uk.gov.dwp.uk.pairtest;
+package uk.gov.dwp.uc.pairtest;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
